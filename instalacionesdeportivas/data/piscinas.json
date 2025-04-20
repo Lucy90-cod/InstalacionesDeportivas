@@ -1,0 +1,57 @@
+[
+  {
+    "descripcion": "Piscina olimpica principal",
+    "area": 1250,
+    "tipo": "Piscina",
+    "ancho": 25,
+    "instalacion": "Piscina Olímpica",
+    "valorHora": 15000,
+    "largo": 50,
+    "id": "55802",
+    "olimpica": true
+  },
+  {
+    "descripcion": "Piscina de muñecos para niños",
+    "area": 150,
+    "tipo": "Piscina",
+    "ancho": 10,
+    "instalacion": "Piscina Normal",
+    "valorHora": 15000,
+    "largo": 15,
+    "id": "04125",
+    "olimpica": false
+  },
+  {
+    "descripcion": "Piscina climatizada techada",
+    "area": 240,
+    "tipo": "Piscina",
+    "ancho": 12,
+    "instalacion": "Piscina Normal",
+    "valorHora": 15000,
+    "largo": 20,
+    "id": "23887",
+    "olimpica": false
+  },
+  {
+    "descripcion": "Piscina de entrenamiento nivel medio",
+    "area": 375,
+    "tipo": "Piscina",
+    "ancho": 15,
+    "instalacion": "Piscina Normal",
+    "valorHora": 15000,
+    "largo": 25,
+    "id": "50262",
+    "olimpica": false
+  },
+  {
+    "descripcion": "Piscina olimpica exterior",
+    "area": 1250,
+    "tipo": "Piscina",
+    "ancho": 25,
+    "instalacion": "Piscina Olímpica",
+    "valorHora": 15000,
+    "largo": 50,
+    "id": "58300",
+    "olimpica": true
+  }
+]

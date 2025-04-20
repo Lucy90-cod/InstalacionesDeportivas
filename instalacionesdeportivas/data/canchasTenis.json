@@ -1,0 +1,62 @@
+[
+  {
+    "descripcion": "Cancha tenis central",
+    "area": 240,
+    "strTipoCancha": "ladrillo",
+    "tipo": "CanchaTenis",
+    "ancho": 10,
+    "instalacion": "Cancha de tenis en ladrillo",
+    "largo": 24,
+    "valorHora": 7000,
+    "id": "92364",
+    "tipoCancha": "LADRILLO"
+  },
+  {
+    "descripcion": "Cancha tenis techada",
+    "area": 240,
+    "strTipoCancha": "ladrillo",
+    "tipo": "CanchaTenis",
+    "ancho": 10,
+    "instalacion": "Cancha de tenis en ladrillo",
+    "largo": 24,
+    "valorHora": 7000,
+    "id": "93918",
+    "tipoCancha": "LADRILLO"
+  },
+  {
+    "descripcion": "Cancha de tenis norte",
+    "area": 240,
+    "strTipoCancha": "césped",
+    "tipo": "CanchaTenis",
+    "ancho": 10,
+    "instalacion": "Cancha de tenis en césped",
+    "largo": 24,
+    "valorHora": 7000,
+    "id": "98140",
+    "tipoCancha": "CESPED"
+  },
+  {
+    "descripcion": "Cancha de tenis para torneos",
+    "area": 240,
+    "strTipoCancha": "césped",
+    "tipo": "CanchaTenis",
+    "ancho": 10,
+    "instalacion": "Cancha de tenis en césped",
+    "largo": 24,
+    "valorHora": 7000,
+    "id": "03895",
+    "tipoCancha": "CESPED"
+  },
+  {
+    "descripcion": "Cancha de tenis juvenil",
+    "area": 160,
+    "strTipoCancha": "césped",
+    "tipo": "CanchaTenis",
+    "ancho": 8,
+    "instalacion": "Cancha de tenis en césped",
+    "largo": 20,
+    "valorHora": 7000,
+    "id": "54102",
+    "tipoCancha": "CESPED"
+  }
+]

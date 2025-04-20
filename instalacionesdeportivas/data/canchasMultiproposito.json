@@ -1,0 +1,62 @@
+[
+  {
+    "descripcion": "Cancha multiuso principal",
+    "area": 800,
+    "tipo": "CanchaMultiproposito",
+    "graderia": false,
+    "ancho": 20,
+    "strGraderia": " sin graderias",
+    "instalacion": "Cancha Multiproposito sin graderias",
+    "largo": 40,
+    "valorHora": 5000,
+    "id": "27710"
+  },
+  {
+    "descripcion": "Cancha multiusos techada",
+    "area": 648,
+    "tipo": "CanchaMultiproposito",
+    "graderia": false,
+    "ancho": 18,
+    "strGraderia": " sin graderias",
+    "instalacion": "Cancha Multiproposito sin graderias",
+    "largo": 36,
+    "valorHora": 5000,
+    "id": "13455"
+  },
+  {
+    "descripcion": "Cancha recreativa para niños",
+    "area": 450,
+    "tipo": "CanchaMultiproposito",
+    "graderia": false,
+    "ancho": 15,
+    "strGraderia": " sin graderias",
+    "instalacion": "Cancha Multiproposito sin graderias",
+    "largo": 30,
+    "valorHora": 5000,
+    "id": "93351"
+  },
+  {
+    "descripcion": "Cancha fútbol, voley y basquet",
+    "area": 648,
+    "tipo": "CanchaMultiproposito",
+    "graderia": true,
+    "ancho": 18,
+    "strGraderia": " con graderia",
+    "instalacion": "Cancha Multiproposito con graderia",
+    "largo": 36,
+    "valorHora": 5000,
+    "id": "75662"
+  },
+  {
+    "descripcion": "Cancha terraza deportiva",
+    "area": 392,
+    "tipo": "CanchaMultiproposito",
+    "graderia": true,
+    "ancho": 14,
+    "strGraderia": " con graderia",
+    "instalacion": "Cancha Multiproposito con graderia",
+    "largo": 28,
+    "valorHora": 5000,
+    "id": "58250"
+  }
+]

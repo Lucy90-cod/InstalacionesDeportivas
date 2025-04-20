@@ -1,0 +1,151 @@
+[
+  {
+    "horas": 2,
+    "instalacionDeportiva": {
+      "area": 392,
+      "descripcion": "Cancha terraza deportiva",
+      "tipo": "CanchaMultiproposito",
+      "graderia": false,
+      "ancho": 14,
+      "strGraderia": " sin graderias",
+      "instalacion": "Cancha Multiproposito sin graderias",
+      "largo": 28,
+      "valorHora": 5000,
+      "id": "41090"
+    },
+    "socio": {
+      "direccion": "Clle 12 # 10 85 Chipre",
+      "id": "1054558788",
+      "telefono": "6068842441",
+      "nombre": "Andrés Felipe Pineda"
+    },
+    "costo": 10000,
+    "id": "29076",
+    "fechaInicioHora": "2025-04-08T10:00",
+    "fechaFinHora": "2025-04-08T12:00"
+  },
+  {
+    "horas": 2,
+    "instalacionDeportiva": {
+      "area": 1250,
+      "descripcion": "Piscina olimpica principal",
+      "tipo": "Piscina",
+      "ancho": 25,
+      "instalacion": "Piscina Olímpica",
+      "largo": 50,
+      "valorHora": 15000,
+      "id": "84133",
+      "olimpica": true
+    },
+    "socio": {
+      "direccion": "cra 7n # 53 57 Sinaí",
+      "id": "1053801115",
+      "telefono": "3117124548",
+      "nombre": "Eliana Grajales"
+    },
+    "costo": 30000,
+    "id": "32684",
+    "fechaInicioHora": "2025-04-08T06:00",
+    "fechaFinHora": "2025-04-08T07:22"
+  },
+  {
+    "horas": 2,
+    "instalacionDeportiva": {
+      "area": 392,
+      "descripcion": "Cancha terraza deportiva",
+      "tipo": "CanchaMultiproposito",
+      "graderia": false,
+      "ancho": 14,
+      "strGraderia": " sin graderias",
+      "instalacion": "Cancha Multiproposito sin graderias",
+      "largo": 28,
+      "valorHora": 5000,
+      "id": "73515"
+    },
+    "socio": {
+      "direccion": "Clle 8 # 9 -49 Villamaria",
+      "id": "24256897",
+      "telefono": "3128303266",
+      "nombre": "Diana Rodriguez"
+    },
+    "costo": 10000,
+    "id": "36331",
+    "fechaInicioHora": "2025-04-08T18:15",
+    "fechaFinHora": "2025-04-08T20:00"
+  },
+  {
+    "horas": 3,
+    "instalacionDeportiva": {
+      "area": 392,
+      "descripcion": "Cancha terraza deportiva",
+      "tipo": "CanchaMultiproposito",
+      "graderia": false,
+      "ancho": 14,
+      "strGraderia": " sin graderias",
+      "instalacion": "Cancha Multiproposito sin graderias",
+      "largo": 28,
+      "valorHora": 5000,
+      "id": "25603"
+    },
+    "socio": {
+      "direccion": "vda la Aurora. Casa 57",
+      "id": "10217707",
+      "telefono": "3105268974",
+      "nombre": "Fernando Cárdenas"
+    },
+    "costo": 15000,
+    "id": "26653",
+    "fechaInicioHora": "2025-04-08T11:25",
+    "fechaFinHora": "2025-04-08T14:00"
+  },
+  {
+    "horas": 4,
+    "instalacionDeportiva": {
+      "area": 450,
+      "descripcion": "Cancha recreativa para niños",
+      "tipo": "CanchaMultiproposito",
+      "graderia": false,
+      "ancho": 15,
+      "strGraderia": " sin graderias",
+      "instalacion": "Cancha Multiproposito sin graderias",
+      "largo": 30,
+      "valorHora": 5000,
+      "id": "72104"
+    },
+    "socio": {
+      "direccion": "Clle 8 # 9 -49 Villamaria",
+      "id": "24256897",
+      "telefono": "3128303266",
+      "nombre": "Diana Rodriguez"
+    },
+    "costo": 20000,
+    "id": "60607",
+    "fechaInicioHora": "2025-04-09T08:00",
+    "fechaFinHora": "2025-04-09T12:00"
+  },
+  {
+    "horas": 4,
+    "instalacionDeportiva": {
+      "area": 160,
+      "descripcion": "Cancha de tenis juvenil",
+      "strTipoCancha": "césped",
+      "tipo": "CanchaTenis",
+      "ancho": 8,
+      "instalacion": "Cancha de tenis en césped",
+      "largo": 20,
+      "valorHora": 7000,
+      "id": "54102",
+      "tipoCancha": "CESPED"
+    },
+    "socio": {
+      "direccion": "Clle 66a # 7 59 Sultana",
+      "id": "30288095",
+      "telefono": "3114587898",
+      "nombre": "Laura Martinez"
+    },
+    "costo": 28000,
+    "id": "53612",
+    "fechaInicioHora": "2025-04-10T06:00",
+    "fechaFinHora": "2025-04-10T09:15"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "direccion": "cra 7n # 53 57 Sinaí",
+    "id": "1053801115",
+    "telefono": "3117124548",
+    "nombre": "Eliana Grajales"
+  },
+  {
+    "direccion": "vda la Aurora. Casa 57",
+    "id": "10217707",
+    "telefono": "3105268974",
+    "nombre": "Fernando Cárdenas"
+  },
+  {
+    "direccion": "Clle 66a # 7 59 Sultana",
+    "id": "30288095",
+    "telefono": "3114587898",
+    "nombre": "Laura Martinez"
+  },
+  {
+    "direccion": "Clle 12 # 10 85 Chipre",
+    "id": "1054558788",
+    "telefono": "6068842441",
+    "nombre": "Andrés Felipe Pineda"
+  },
+  {
+    "direccion": "Clle 8 # 9 -49 Villamaria",
+    "id": "24256897",
+    "telefono": "3128303266",
+    "nombre": "Diana Rodriguez"
+  }
+]
